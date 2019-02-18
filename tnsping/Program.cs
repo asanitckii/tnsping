@@ -1,4 +1,3 @@
-﻿
 namespace tnsping
 {
     using Oracle.ManagedDataAccess.Client;
